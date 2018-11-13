@@ -1,0 +1,11 @@
+---
+title: THIS IS A TEST
+author: John Houghton
+date: '2018-11-12'
+slug: this-is-a-test
+categories:
+  - R
+tags:
+  - maximumfun
+  - regression
+---
